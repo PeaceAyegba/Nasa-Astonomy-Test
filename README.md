@@ -3,7 +3,7 @@
 ## Getting Started
 
 - Install NodeJS and Yarn on your computer
-- Clone this repository using git clone https://github.com/slimsolz/nasa-astronomy-app.git
+- Clone this repository using git clone (https://github.com/PeaceAyegba/Nasa-Astonomy-Test.git)
 - Use the .env.example file to setup your environmental variables and rename the file to .env
 - Run yarn install to install all dependencies
 - Run yarn build to build the project
